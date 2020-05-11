@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stacy&#39;s Portofolio</title>
+    <link>https://stacello19.github.io/</link>
+    <description>Recent content on Stacy&#39;s Portofolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stacello19.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1. React Blog App</title>
+      <link>https://stacello19.github.io/posts/project1/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stacello19.github.io/posts/project1/</guid>
+      <description>Stack: React, Scss, AWS (EC2 ubuntu) Github repo || Website OBJECTIVES React Blog App is a pure React blog with well use of SASS (preprocessor of CSS) and deployment on an Ubuntu Linux AWS EC2 instance. I&amp;rsquo;ve wanted to create a website where everyone can share their everyday study like Medium, the online publishing platform.</description>
+    </item>
+    
+    <item>
+      <title>2. Pandemic20</title>
+      <link>https://stacello19.github.io/posts/project2/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stacello19.github.io/posts/project2/</guid>
+      <description>Stack: D3.js, Javascript, AWS (S3, Cloudfront) Github repo || Website OBJECTIVES Covid19 is getting worse everyday and It now becomes World Pandemic. So many talented people spent so much time for making good web applications and infographic such as graphs, images, and videos to deliver information and awareness to the people. Pandemic20 is an interactive infographic which combines the benefits of web application &amp;amp; static infographic. I want users to be active participants of the timeline; thus, users are able to:</description>
+    </item>
+    
+    <item>
+      <title>3. MyPresso</title>
+      <link>https://stacello19.github.io/posts/project3/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stacello19.github.io/posts/project3/</guid>
+      <description>Stack: React, Scss, AWS Serverless Backend (Lambda, RDS, Amplify, API Gateway) Github repo || Website OBJECTIVES MyPressoApp is AWS severless clouded backend and pure react frontend code blog web-app. I&amp;rsquo;ve wanted to create a website where I can get a track of Nespresso capsule orders and personal review for each capsule for later veuse.</description>
+    </item>
+    
+    <item>
+      <title>4. Ocean-Fusion</title>
+      <link>https://stacello19.github.io/posts/project4/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stacello19.github.io/posts/project4/</guid>
+      <description>Stack: React, Google Tensorflow, Posenet Github repo || Website OBJECTIVES Ocean Fusion is an interactive trivia game that brings awareness about environmental sustainability. Our primary goal was to provide a fun, interactive experience to raise awareness and increase efforts to protect natural resouces. Our focus audience is young children, which is why we integrated PoseNet and animation that changes with the progression of the game.</description>
+    </item>
+    
+  </channel>
+</rss>
